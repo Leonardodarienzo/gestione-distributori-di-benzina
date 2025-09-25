@@ -12,7 +12,7 @@ app = Flask(__name__)
 db_config = {
     'host': 'mysql-30ced52f-iisgalvanimi-cbb0.g.aivencloud.com',
     'user': 'avnadmin',      
-    'password': '',
+    'password': 'AVNS_ROZR4I-u_7cKxsHOkgF',
     'database': 'DistributoriBenzina',
     'port': 14409
 }
